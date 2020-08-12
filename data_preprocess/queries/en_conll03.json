@@ -1,0 +1,14 @@
+{
+  "default": {
+    "LOC": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "ORG": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "PER": "a person entity is limited to human including a single individual or a group.",
+    "MISC": "Others."
+  },
+  "labels": [
+    "ORG",
+    "PER",
+    "LOC",
+    "MISC"
+  ]
+}

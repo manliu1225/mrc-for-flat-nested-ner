@@ -1,0 +1,48 @@
+[
+  {
+    "context": "CRICKET - LEICESTERSHIRE TAKE OVER AT TOP AFTER INNINGS VICTORY .", 
+    "end_position": [
+      2
+    ], 
+    "entity_label": "ORG", 
+    "impossible": false, 
+    "qas_id": "0.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [
+      "2;2"
+    ], 
+    "start_position": [
+      2
+    ]
+  }, 
+  {
+    "context": "CRICKET - LEICESTERSHIRE TAKE OVER AT TOP AFTER INNINGS VICTORY .", 
+    "end_position": [], 
+    "entity_label": "PER", 
+    "impossible": true, 
+    "qas_id": "0.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "CRICKET - LEICESTERSHIRE TAKE OVER AT TOP AFTER INNINGS VICTORY .", 
+    "end_position": [], 
+    "entity_label": "LOC", 
+    "impossible": true, 
+    "qas_id": "0.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "CRICKET - LEICESTERSHIRE TAKE OVER AT TOP AFTER INNINGS VICTORY .", 
+    "end_position": [], 
+    "entity_label": "MISC", 
+    "impossible": true, 
+    "qas_id": "0.4", 
+    "query": "Others.", 
+    "span_position": [], 
+    "start_position": []
+  },  
+]

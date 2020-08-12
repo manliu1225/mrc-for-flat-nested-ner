@@ -1,0 +1,43 @@
+{
+  "default": {
+    "LOC": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "ORG": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "PERSON": "a person entity is limited to human including a single individual or a group.",
+    "ORDINAL": "first, second, third", 
+    "CARDINAL": "Numerals that do not fall under another type", 
+    "WORK_OF_ART": "Titles of books, songs, etc.",
+    "LANGUAGE": "Any named language.",
+    "FAC": "Buildings, airports, highways, bridges, etc.",
+    "EVENT": "Named hurricanes, battles, wars, sports events, etc.", 
+    "TIME": "Times smaller than a day.",
+    "LAW": "Named documents made into laws ",
+    "NORP": "Nationalities or religious or political groups.",
+    "PERCENT": "Percentage (including “%”)",
+    "DATE": "Absolute or relative dates or periods",
+    "GPE": "Countries, cities, states.",
+    "QUANTITY":"Measurements, as of weight or distance.",  
+    "PRODUCT": "Vehicles, weapons, foods, etc. (Not services).",
+    "MONEY": "Monetary values, including unit."
+  },
+  "labels": 
+  ["ORDINAL", 
+  "CARDINAL", 
+  "LOC", 
+  "WORK_OF_ART", 
+  "LANGUAGE", 
+  "ORG", 
+  "FAC", 
+  "PERSON", 
+  "EVENT", 
+  "TIME", 
+  "LAW", 
+  "NORP", 
+  "PERCENT", 
+  "DATE", 
+  "GPE", 
+  "QUANTITY", 
+  "PRODUCT", 
+  "MONEY"
+]
+}
+

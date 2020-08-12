@@ -1,0 +1,1443 @@
+[
+  {
+    "context": "EU rejects German call to boycott British lamb .", 
+    "end_position": [
+      0
+    ], 
+    "entity_label": "ORG", 
+    "impossible": false, 
+    "qas_id": "0.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [
+      "0;0"
+    ], 
+    "start_position": [
+      0
+    ]
+  }, 
+  {
+    "context": "EU rejects German call to boycott British lamb .", 
+    "end_position": [], 
+    "entity_label": "PER", 
+    "impossible": true, 
+    "qas_id": "0.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "EU rejects German call to boycott British lamb .", 
+    "end_position": [], 
+    "entity_label": "LOC", 
+    "impossible": true, 
+    "qas_id": "0.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "EU rejects German call to boycott British lamb .", 
+    "end_position": [
+      2, 
+      6
+    ], 
+    "entity_label": "MISC", 
+    "impossible": false, 
+    "qas_id": "0.4", 
+    "query": "Others.", 
+    "span_position": [
+      "2;2", 
+      "6;6"
+    ], 
+    "start_position": [
+      2, 
+      6
+    ]
+  }, 
+  {
+    "context": "Peter Blackburn", 
+    "end_position": [], 
+    "entity_label": "ORG", 
+    "impossible": true, 
+    "qas_id": "1.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Peter Blackburn", 
+    "end_position": [], 
+    "entity_label": "PER", 
+    "impossible": true, 
+    "qas_id": "1.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Peter Blackburn", 
+    "end_position": [], 
+    "entity_label": "LOC", 
+    "impossible": true, 
+    "qas_id": "1.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Peter Blackburn", 
+    "end_position": [], 
+    "entity_label": "MISC", 
+    "impossible": true, 
+    "qas_id": "1.4", 
+    "query": "Others.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "BRUSSELS 1996-08-22", 
+    "end_position": [], 
+    "entity_label": "ORG", 
+    "impossible": true, 
+    "qas_id": "2.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "BRUSSELS 1996-08-22", 
+    "end_position": [], 
+    "entity_label": "PER", 
+    "impossible": true, 
+    "qas_id": "2.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "BRUSSELS 1996-08-22", 
+    "end_position": [
+      0
+    ], 
+    "entity_label": "LOC", 
+    "impossible": false, 
+    "qas_id": "2.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [
+      "0;0"
+    ], 
+    "start_position": [
+      0
+    ]
+  }, 
+  {
+    "context": "BRUSSELS 1996-08-22", 
+    "end_position": [], 
+    "entity_label": "MISC", 
+    "impossible": true, 
+    "qas_id": "2.4", 
+    "query": "Others.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .", 
+    "end_position": [
+      2
+    ], 
+    "entity_label": "ORG", 
+    "impossible": false, 
+    "qas_id": "3.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [
+      "1;2"
+    ], 
+    "start_position": [
+      1
+    ]
+  }, 
+  {
+    "context": "The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .", 
+    "end_position": [], 
+    "entity_label": "PER", 
+    "impossible": true, 
+    "qas_id": "3.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .", 
+    "end_position": [], 
+    "entity_label": "LOC", 
+    "impossible": true, 
+    "qas_id": "3.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .", 
+    "end_position": [
+      9, 
+      15
+    ], 
+    "entity_label": "MISC", 
+    "impossible": false, 
+    "qas_id": "3.4", 
+    "query": "Others.", 
+    "span_position": [
+      "9;9", 
+      "15;15"
+    ], 
+    "start_position": [
+      9, 
+      15
+    ]
+  }, 
+  {
+    "context": "Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .", 
+    "end_position": [
+      6
+    ], 
+    "entity_label": "ORG", 
+    "impossible": false, 
+    "qas_id": "4.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [
+      "5;6"
+    ], 
+    "start_position": [
+      5
+    ]
+  }, 
+  {
+    "context": "Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .", 
+    "end_position": [
+      11
+    ], 
+    "entity_label": "PER", 
+    "impossible": false, 
+    "qas_id": "4.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [
+      "10;11"
+    ], 
+    "start_position": [
+      10
+    ]
+  }, 
+  {
+    "context": "Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .", 
+    "end_position": [
+      0, 
+      23
+    ], 
+    "entity_label": "LOC", 
+    "impossible": false, 
+    "qas_id": "4.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [
+      "0;0", 
+      "23;23"
+    ], 
+    "start_position": [
+      0, 
+      23
+    ]
+  }, 
+  {
+    "context": "Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .", 
+    "end_position": [], 
+    "entity_label": "MISC", 
+    "impossible": true, 
+    "qas_id": "4.4", 
+    "query": "Others.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "\" We do n't support any such recommendation because we do n't see any grounds for it , \" the Commission 's chief spokesman Nikolaus van der Pas told a news briefing .", 
+    "end_position": [
+      20
+    ], 
+    "entity_label": "ORG", 
+    "impossible": false, 
+    "qas_id": "5.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [
+      "20;20"
+    ], 
+    "start_position": [
+      20
+    ]
+  }, 
+  {
+    "context": "\" We do n't support any such recommendation because we do n't see any grounds for it , \" the Commission 's chief spokesman Nikolaus van der Pas told a news briefing .", 
+    "end_position": [
+      27
+    ], 
+    "entity_label": "PER", 
+    "impossible": false, 
+    "qas_id": "5.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [
+      "24;27"
+    ], 
+    "start_position": [
+      24
+    ]
+  }, 
+  {
+    "context": "\" We do n't support any such recommendation because we do n't see any grounds for it , \" the Commission 's chief spokesman Nikolaus van der Pas told a news briefing .", 
+    "end_position": [], 
+    "entity_label": "LOC", 
+    "impossible": true, 
+    "qas_id": "5.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "\" We do n't support any such recommendation because we do n't see any grounds for it , \" the Commission 's chief spokesman Nikolaus van der Pas told a news briefing .", 
+    "end_position": [], 
+    "entity_label": "MISC", 
+    "impossible": true, 
+    "qas_id": "5.4", 
+    "query": "Others.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "He said further scientific study was required and if it was found that action was needed it should be taken by the European Union .", 
+    "end_position": [
+      23
+    ], 
+    "entity_label": "ORG", 
+    "impossible": false, 
+    "qas_id": "6.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [
+      "22;23"
+    ], 
+    "start_position": [
+      22
+    ]
+  }, 
+  {
+    "context": "He said further scientific study was required and if it was found that action was needed it should be taken by the European Union .", 
+    "end_position": [], 
+    "entity_label": "PER", 
+    "impossible": true, 
+    "qas_id": "6.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "He said further scientific study was required and if it was found that action was needed it should be taken by the European Union .", 
+    "end_position": [], 
+    "entity_label": "LOC", 
+    "impossible": true, 
+    "qas_id": "6.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "He said further scientific study was required and if it was found that action was needed it should be taken by the European Union .", 
+    "end_position": [], 
+    "entity_label": "MISC", 
+    "impossible": true, 
+    "qas_id": "6.4", 
+    "query": "Others.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "He said a proposal last month by EU Farm Commissioner Franz Fischler to ban sheep brains , spleens and spinal cords from the human and animal food chains was a highly specific and precautionary move to protect human health .", 
+    "end_position": [
+      7
+    ], 
+    "entity_label": "ORG", 
+    "impossible": false, 
+    "qas_id": "7.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [
+      "7;7"
+    ], 
+    "start_position": [
+      7
+    ]
+  }, 
+  {
+    "context": "He said a proposal last month by EU Farm Commissioner Franz Fischler to ban sheep brains , spleens and spinal cords from the human and animal food chains was a highly specific and precautionary move to protect human health .", 
+    "end_position": [
+      11
+    ], 
+    "entity_label": "PER", 
+    "impossible": false, 
+    "qas_id": "7.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [
+      "10;11"
+    ], 
+    "start_position": [
+      10
+    ]
+  }, 
+  {
+    "context": "He said a proposal last month by EU Farm Commissioner Franz Fischler to ban sheep brains , spleens and spinal cords from the human and animal food chains was a highly specific and precautionary move to protect human health .", 
+    "end_position": [], 
+    "entity_label": "LOC", 
+    "impossible": true, 
+    "qas_id": "7.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "He said a proposal last month by EU Farm Commissioner Franz Fischler to ban sheep brains , spleens and spinal cords from the human and animal food chains was a highly specific and precautionary move to protect human health .", 
+    "end_position": [], 
+    "entity_label": "MISC", 
+    "impossible": true, 
+    "qas_id": "7.4", 
+    "query": "Others.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .", 
+    "end_position": [], 
+    "entity_label": "ORG", 
+    "impossible": true, 
+    "qas_id": "8.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .", 
+    "end_position": [
+      0
+    ], 
+    "entity_label": "PER", 
+    "impossible": false, 
+    "qas_id": "8.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [
+      "0;0"
+    ], 
+    "start_position": [
+      0
+    ]
+  }, 
+  {
+    "context": "Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .", 
+    "end_position": [
+      7, 
+      9
+    ], 
+    "entity_label": "LOC", 
+    "impossible": false, 
+    "qas_id": "8.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [
+      "7;7", 
+      "9;9"
+    ], 
+    "start_position": [
+      7, 
+      9
+    ]
+  }, 
+  {
+    "context": "Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .", 
+    "end_position": [
+      2, 
+      19, 
+      21
+    ], 
+    "entity_label": "MISC", 
+    "impossible": false, 
+    "qas_id": "8.4", 
+    "query": "Others.", 
+    "span_position": [
+      "2;2", 
+      "17;19", 
+      "21;21"
+    ], 
+    "start_position": [
+      2, 
+      17, 
+      21
+    ]
+  }, 
+  {
+    "context": "But Fischler agreed to review his proposal after the EU 's standing veterinary committee , mational animal health officials , questioned if such action was justified as there was only a slight risk to human health .", 
+    "end_position": [
+      9
+    ], 
+    "entity_label": "ORG", 
+    "impossible": false, 
+    "qas_id": "9.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [
+      "9;9"
+    ], 
+    "start_position": [
+      9
+    ]
+  }, 
+  {
+    "context": "But Fischler agreed to review his proposal after the EU 's standing veterinary committee , mational animal health officials , questioned if such action was justified as there was only a slight risk to human health .", 
+    "end_position": [
+      1
+    ], 
+    "entity_label": "PER", 
+    "impossible": false, 
+    "qas_id": "9.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [
+      "1;1"
+    ], 
+    "start_position": [
+      1
+    ]
+  }, 
+  {
+    "context": "But Fischler agreed to review his proposal after the EU 's standing veterinary committee , mational animal health officials , questioned if such action was justified as there was only a slight risk to human health .", 
+    "end_position": [], 
+    "entity_label": "LOC", 
+    "impossible": true, 
+    "qas_id": "9.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "But Fischler agreed to review his proposal after the EU 's standing veterinary committee , mational animal health officials , questioned if such action was justified as there was only a slight risk to human health .", 
+    "end_position": [], 
+    "entity_label": "MISC", 
+    "impossible": true, 
+    "qas_id": "9.4", 
+    "query": "Others.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Spanish Farm Minister Loyola de Palacio had earlier accused Fischler at an EU farm ministers ' meeting of causing unjustified alarm through \" dangerous generalisation . \"", 
+    "end_position": [
+      12
+    ], 
+    "entity_label": "ORG", 
+    "impossible": false, 
+    "qas_id": "10.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [
+      "12;12"
+    ], 
+    "start_position": [
+      12
+    ]
+  }, 
+  {
+    "context": "Spanish Farm Minister Loyola de Palacio had earlier accused Fischler at an EU farm ministers ' meeting of causing unjustified alarm through \" dangerous generalisation . \"", 
+    "end_position": [
+      5, 
+      9
+    ], 
+    "entity_label": "PER", 
+    "impossible": false, 
+    "qas_id": "10.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [
+      "3;5", 
+      "9;9"
+    ], 
+    "start_position": [
+      3, 
+      9
+    ]
+  }, 
+  {
+    "context": "Spanish Farm Minister Loyola de Palacio had earlier accused Fischler at an EU farm ministers ' meeting of causing unjustified alarm through \" dangerous generalisation . \"", 
+    "end_position": [], 
+    "entity_label": "LOC", 
+    "impossible": true, 
+    "qas_id": "10.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Spanish Farm Minister Loyola de Palacio had earlier accused Fischler at an EU farm ministers ' meeting of causing unjustified alarm through \" dangerous generalisation . \"", 
+    "end_position": [
+      0
+    ], 
+    "entity_label": "MISC", 
+    "impossible": false, 
+    "qas_id": "10.4", 
+    "query": "Others.", 
+    "span_position": [
+      "0;0"
+    ], 
+    "start_position": [
+      0
+    ]
+  }, 
+  {
+    "context": ".", 
+    "end_position": [], 
+    "entity_label": "ORG", 
+    "impossible": true, 
+    "qas_id": "11.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": ".", 
+    "end_position": [], 
+    "entity_label": "PER", 
+    "impossible": true, 
+    "qas_id": "11.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": ".", 
+    "end_position": [], 
+    "entity_label": "LOC", 
+    "impossible": true, 
+    "qas_id": "11.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": ".", 
+    "end_position": [], 
+    "entity_label": "MISC", 
+    "impossible": true, 
+    "qas_id": "11.4", 
+    "query": "Others.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Only France and Britain backed Fischler 's proposal .", 
+    "end_position": [], 
+    "entity_label": "ORG", 
+    "impossible": true, 
+    "qas_id": "12.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Only France and Britain backed Fischler 's proposal .", 
+    "end_position": [
+      5
+    ], 
+    "entity_label": "PER", 
+    "impossible": false, 
+    "qas_id": "12.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [
+      "5;5"
+    ], 
+    "start_position": [
+      5
+    ]
+  }, 
+  {
+    "context": "Only France and Britain backed Fischler 's proposal .", 
+    "end_position": [
+      1, 
+      3
+    ], 
+    "entity_label": "LOC", 
+    "impossible": false, 
+    "qas_id": "12.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [
+      "1;1", 
+      "3;3"
+    ], 
+    "start_position": [
+      1, 
+      3
+    ]
+  }, 
+  {
+    "context": "Only France and Britain backed Fischler 's proposal .", 
+    "end_position": [], 
+    "entity_label": "MISC", 
+    "impossible": true, 
+    "qas_id": "12.4", 
+    "query": "Others.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "The EU 's scientific veterinary and multidisciplinary committees are due to re-examine the issue early next month and make recommendations to the senior veterinary officials .", 
+    "end_position": [
+      1
+    ], 
+    "entity_label": "ORG", 
+    "impossible": false, 
+    "qas_id": "13.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [
+      "1;1"
+    ], 
+    "start_position": [
+      1
+    ]
+  }, 
+  {
+    "context": "The EU 's scientific veterinary and multidisciplinary committees are due to re-examine the issue early next month and make recommendations to the senior veterinary officials .", 
+    "end_position": [], 
+    "entity_label": "PER", 
+    "impossible": true, 
+    "qas_id": "13.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "The EU 's scientific veterinary and multidisciplinary committees are due to re-examine the issue early next month and make recommendations to the senior veterinary officials .", 
+    "end_position": [], 
+    "entity_label": "LOC", 
+    "impossible": true, 
+    "qas_id": "13.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "The EU 's scientific veterinary and multidisciplinary committees are due to re-examine the issue early next month and make recommendations to the senior veterinary officials .", 
+    "end_position": [], 
+    "entity_label": "MISC", 
+    "impossible": true, 
+    "qas_id": "13.4", 
+    "query": "Others.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Sheep have long been known to contract scrapie , a brain-wasting disease similar to BSE which is believed to have been transferred to cattle through feed containing animal waste .", 
+    "end_position": [], 
+    "entity_label": "ORG", 
+    "impossible": true, 
+    "qas_id": "14.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Sheep have long been known to contract scrapie , a brain-wasting disease similar to BSE which is believed to have been transferred to cattle through feed containing animal waste .", 
+    "end_position": [], 
+    "entity_label": "PER", 
+    "impossible": true, 
+    "qas_id": "14.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Sheep have long been known to contract scrapie , a brain-wasting disease similar to BSE which is believed to have been transferred to cattle through feed containing animal waste .", 
+    "end_position": [], 
+    "entity_label": "LOC", 
+    "impossible": true, 
+    "qas_id": "14.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Sheep have long been known to contract scrapie , a brain-wasting disease similar to BSE which is believed to have been transferred to cattle through feed containing animal waste .", 
+    "end_position": [
+      14
+    ], 
+    "entity_label": "MISC", 
+    "impossible": false, 
+    "qas_id": "14.4", 
+    "query": "Others.", 
+    "span_position": [
+      "14;14"
+    ], 
+    "start_position": [
+      14
+    ]
+  }, 
+  {
+    "context": "British farmers denied on Thursday there was any danger to human health from their sheep , but expressed concern that German government advice to consumers to avoid British lamb might influence consumers across Europe .", 
+    "end_position": [], 
+    "entity_label": "ORG", 
+    "impossible": true, 
+    "qas_id": "15.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "British farmers denied on Thursday there was any danger to human health from their sheep , but expressed concern that German government advice to consumers to avoid British lamb might influence consumers across Europe .", 
+    "end_position": [], 
+    "entity_label": "PER", 
+    "impossible": true, 
+    "qas_id": "15.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "British farmers denied on Thursday there was any danger to human health from their sheep , but expressed concern that German government advice to consumers to avoid British lamb might influence consumers across Europe .", 
+    "end_position": [
+      33
+    ], 
+    "entity_label": "LOC", 
+    "impossible": false, 
+    "qas_id": "15.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [
+      "33;33"
+    ], 
+    "start_position": [
+      33
+    ]
+  }, 
+  {
+    "context": "British farmers denied on Thursday there was any danger to human health from their sheep , but expressed concern that German government advice to consumers to avoid British lamb might influence consumers across Europe .", 
+    "end_position": [
+      0, 
+      20, 
+      27
+    ], 
+    "entity_label": "MISC", 
+    "impossible": false, 
+    "qas_id": "15.4", 
+    "query": "Others.", 
+    "span_position": [
+      "0;0", 
+      "20;20", 
+      "27;27"
+    ], 
+    "start_position": [
+      0, 
+      20, 
+      27
+    ]
+  }, 
+  {
+    "context": "\" What we have to be extremely careful of is how other countries are going to take Germany 's lead , \" Welsh National Farmers ' Union ( NFU ) chairman John Lloyd Jones said on BBC radio .", 
+    "end_position": [
+      26, 
+      28, 
+      37
+    ], 
+    "entity_label": "ORG", 
+    "impossible": false, 
+    "qas_id": "16.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [
+      "22;26", 
+      "28;28", 
+      "36;37"
+    ], 
+    "start_position": [
+      22, 
+      28, 
+      36
+    ]
+  }, 
+  {
+    "context": "\" What we have to be extremely careful of is how other countries are going to take Germany 's lead , \" Welsh National Farmers ' Union ( NFU ) chairman John Lloyd Jones said on BBC radio .", 
+    "end_position": [
+      33
+    ], 
+    "entity_label": "PER", 
+    "impossible": false, 
+    "qas_id": "16.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [
+      "31;33"
+    ], 
+    "start_position": [
+      31
+    ]
+  }, 
+  {
+    "context": "\" What we have to be extremely careful of is how other countries are going to take Germany 's lead , \" Welsh National Farmers ' Union ( NFU ) chairman John Lloyd Jones said on BBC radio .", 
+    "end_position": [
+      17
+    ], 
+    "entity_label": "LOC", 
+    "impossible": false, 
+    "qas_id": "16.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [
+      "17;17"
+    ], 
+    "start_position": [
+      17
+    ]
+  }, 
+  {
+    "context": "\" What we have to be extremely careful of is how other countries are going to take Germany 's lead , \" Welsh National Farmers ' Union ( NFU ) chairman John Lloyd Jones said on BBC radio .", 
+    "end_position": [], 
+    "entity_label": "MISC", 
+    "impossible": true, 
+    "qas_id": "16.4", 
+    "query": "Others.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Bonn has led efforts to protect public health after consumer confidence collapsed in March after a British report suggested humans could contract an illness similar to mad cow disease by eating contaminated beef .", 
+    "end_position": [], 
+    "entity_label": "ORG", 
+    "impossible": true, 
+    "qas_id": "17.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Bonn has led efforts to protect public health after consumer confidence collapsed in March after a British report suggested humans could contract an illness similar to mad cow disease by eating contaminated beef .", 
+    "end_position": [], 
+    "entity_label": "PER", 
+    "impossible": true, 
+    "qas_id": "17.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Bonn has led efforts to protect public health after consumer confidence collapsed in March after a British report suggested humans could contract an illness similar to mad cow disease by eating contaminated beef .", 
+    "end_position": [
+      0
+    ], 
+    "entity_label": "LOC", 
+    "impossible": false, 
+    "qas_id": "17.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [
+      "0;0"
+    ], 
+    "start_position": [
+      0
+    ]
+  }, 
+  {
+    "context": "Bonn has led efforts to protect public health after consumer confidence collapsed in March after a British report suggested humans could contract an illness similar to mad cow disease by eating contaminated beef .", 
+    "end_position": [
+      16
+    ], 
+    "entity_label": "MISC", 
+    "impossible": false, 
+    "qas_id": "17.4", 
+    "query": "Others.", 
+    "span_position": [
+      "16;16"
+    ], 
+    "start_position": [
+      16
+    ]
+  }, 
+  {
+    "context": "Germany imported 47,600 sheep from Britain last year , nearly half of total imports .", 
+    "end_position": [], 
+    "entity_label": "ORG", 
+    "impossible": true, 
+    "qas_id": "18.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Germany imported 47,600 sheep from Britain last year , nearly half of total imports .", 
+    "end_position": [], 
+    "entity_label": "PER", 
+    "impossible": true, 
+    "qas_id": "18.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Germany imported 47,600 sheep from Britain last year , nearly half of total imports .", 
+    "end_position": [
+      0, 
+      5
+    ], 
+    "entity_label": "LOC", 
+    "impossible": false, 
+    "qas_id": "18.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [
+      "0;0", 
+      "5;5"
+    ], 
+    "start_position": [
+      0, 
+      5
+    ]
+  }, 
+  {
+    "context": "Germany imported 47,600 sheep from Britain last year , nearly half of total imports .", 
+    "end_position": [], 
+    "entity_label": "MISC", 
+    "impossible": true, 
+    "qas_id": "18.4", 
+    "query": "Others.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "It brought in 4,275 tonnes of British mutton , some 10 percent of overall imports .", 
+    "end_position": [], 
+    "entity_label": "ORG", 
+    "impossible": true, 
+    "qas_id": "19.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "It brought in 4,275 tonnes of British mutton , some 10 percent of overall imports .", 
+    "end_position": [], 
+    "entity_label": "PER", 
+    "impossible": true, 
+    "qas_id": "19.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "It brought in 4,275 tonnes of British mutton , some 10 percent of overall imports .", 
+    "end_position": [], 
+    "entity_label": "LOC", 
+    "impossible": true, 
+    "qas_id": "19.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "It brought in 4,275 tonnes of British mutton , some 10 percent of overall imports .", 
+    "end_position": [
+      6
+    ], 
+    "entity_label": "MISC", 
+    "impossible": false, 
+    "qas_id": "19.4", 
+    "query": "Others.", 
+    "span_position": [
+      "6;6"
+    ], 
+    "start_position": [
+      6
+    ]
+  }, 
+  {
+    "context": "Rare Hendrix song draft sells for almost $ 17,000 .", 
+    "end_position": [], 
+    "entity_label": "ORG", 
+    "impossible": true, 
+    "qas_id": "20.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Rare Hendrix song draft sells for almost $ 17,000 .", 
+    "end_position": [
+      1
+    ], 
+    "entity_label": "PER", 
+    "impossible": false, 
+    "qas_id": "20.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [
+      "1;1"
+    ], 
+    "start_position": [
+      1
+    ]
+  }, 
+  {
+    "context": "Rare Hendrix song draft sells for almost $ 17,000 .", 
+    "end_position": [], 
+    "entity_label": "LOC", 
+    "impossible": true, 
+    "qas_id": "20.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Rare Hendrix song draft sells for almost $ 17,000 .", 
+    "end_position": [], 
+    "entity_label": "MISC", 
+    "impossible": true, 
+    "qas_id": "20.4", 
+    "query": "Others.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "LONDON 1996-08-22", 
+    "end_position": [], 
+    "entity_label": "ORG", 
+    "impossible": true, 
+    "qas_id": "21.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "LONDON 1996-08-22", 
+    "end_position": [], 
+    "entity_label": "PER", 
+    "impossible": true, 
+    "qas_id": "21.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "LONDON 1996-08-22", 
+    "end_position": [
+      0
+    ], 
+    "entity_label": "LOC", 
+    "impossible": false, 
+    "qas_id": "21.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [
+      "0;0"
+    ], 
+    "start_position": [
+      0
+    ]
+  }, 
+  {
+    "context": "LONDON 1996-08-22", 
+    "end_position": [], 
+    "entity_label": "MISC", 
+    "impossible": true, 
+    "qas_id": "21.4", 
+    "query": "Others.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "A rare early handwritten draft of a song by U.S. guitar legend Jimi Hendrix was sold for almost $ 17,000 on Thursday at an auction of some of the late musician 's favourite possessions .", 
+    "end_position": [], 
+    "entity_label": "ORG", 
+    "impossible": true, 
+    "qas_id": "22.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "A rare early handwritten draft of a song by U.S. guitar legend Jimi Hendrix was sold for almost $ 17,000 on Thursday at an auction of some of the late musician 's favourite possessions .", 
+    "end_position": [
+      13
+    ], 
+    "entity_label": "PER", 
+    "impossible": false, 
+    "qas_id": "22.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [
+      "12;13"
+    ], 
+    "start_position": [
+      12
+    ]
+  }, 
+  {
+    "context": "A rare early handwritten draft of a song by U.S. guitar legend Jimi Hendrix was sold for almost $ 17,000 on Thursday at an auction of some of the late musician 's favourite possessions .", 
+    "end_position": [
+      9
+    ], 
+    "entity_label": "LOC", 
+    "impossible": false, 
+    "qas_id": "22.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [
+      "9;9"
+    ], 
+    "start_position": [
+      9
+    ]
+  }, 
+  {
+    "context": "A rare early handwritten draft of a song by U.S. guitar legend Jimi Hendrix was sold for almost $ 17,000 on Thursday at an auction of some of the late musician 's favourite possessions .", 
+    "end_position": [], 
+    "entity_label": "MISC", 
+    "impossible": true, 
+    "qas_id": "22.4", 
+    "query": "Others.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "A Florida restaurant paid 10,925 pounds ( $ 16,935 ) for the draft of \" Ai n't no telling \" , which Hendrix penned on a piece of London hotel stationery in late 1966 .", 
+    "end_position": [], 
+    "entity_label": "ORG", 
+    "impossible": true, 
+    "qas_id": "23.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "A Florida restaurant paid 10,925 pounds ( $ 16,935 ) for the draft of \" Ai n't no telling \" , which Hendrix penned on a piece of London hotel stationery in late 1966 .", 
+    "end_position": [
+      22
+    ], 
+    "entity_label": "PER", 
+    "impossible": false, 
+    "qas_id": "23.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [
+      "22;22"
+    ], 
+    "start_position": [
+      22
+    ]
+  }, 
+  {
+    "context": "A Florida restaurant paid 10,925 pounds ( $ 16,935 ) for the draft of \" Ai n't no telling \" , which Hendrix penned on a piece of London hotel stationery in late 1966 .", 
+    "end_position": [
+      1, 
+      28
+    ], 
+    "entity_label": "LOC", 
+    "impossible": false, 
+    "qas_id": "23.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [
+      "1;1", 
+      "28;28"
+    ], 
+    "start_position": [
+      1, 
+      28
+    ]
+  }, 
+  {
+    "context": "A Florida restaurant paid 10,925 pounds ( $ 16,935 ) for the draft of \" Ai n't no telling \" , which Hendrix penned on a piece of London hotel stationery in late 1966 .", 
+    "end_position": [
+      18
+    ], 
+    "entity_label": "MISC", 
+    "impossible": false, 
+    "qas_id": "23.4", 
+    "query": "Others.", 
+    "span_position": [
+      "15;18"
+    ], 
+    "start_position": [
+      15
+    ]
+  }, 
+  {
+    "context": "At the end of a January 1967 concert in the English city of Nottingham he threw the sheet of paper into the audience , where it was retrieved by a fan .", 
+    "end_position": [], 
+    "entity_label": "ORG", 
+    "impossible": true, 
+    "qas_id": "24.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "At the end of a January 1967 concert in the English city of Nottingham he threw the sheet of paper into the audience , where it was retrieved by a fan .", 
+    "end_position": [], 
+    "entity_label": "PER", 
+    "impossible": true, 
+    "qas_id": "24.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "At the end of a January 1967 concert in the English city of Nottingham he threw the sheet of paper into the audience , where it was retrieved by a fan .", 
+    "end_position": [
+      13
+    ], 
+    "entity_label": "LOC", 
+    "impossible": false, 
+    "qas_id": "24.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [
+      "13;13"
+    ], 
+    "start_position": [
+      13
+    ]
+  }, 
+  {
+    "context": "At the end of a January 1967 concert in the English city of Nottingham he threw the sheet of paper into the audience , where it was retrieved by a fan .", 
+    "end_position": [
+      10
+    ], 
+    "entity_label": "MISC", 
+    "impossible": false, 
+    "qas_id": "24.4", 
+    "query": "Others.", 
+    "span_position": [
+      "10;10"
+    ], 
+    "start_position": [
+      10
+    ]
+  }, 
+  {
+    "context": "Buyers also snapped up 16 other items that were put up for auction by Hendrix 's former girlfriend Kathy Etchingham , who lived with him from 1966 to 1969 .", 
+    "end_position": [], 
+    "entity_label": "ORG", 
+    "impossible": true, 
+    "qas_id": "25.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Buyers also snapped up 16 other items that were put up for auction by Hendrix 's former girlfriend Kathy Etchingham , who lived with him from 1966 to 1969 .", 
+    "end_position": [
+      14, 
+      19
+    ], 
+    "entity_label": "PER", 
+    "impossible": false, 
+    "qas_id": "25.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [
+      "14;14", 
+      "18;19"
+    ], 
+    "start_position": [
+      14, 
+      18
+    ]
+  }, 
+  {
+    "context": "Buyers also snapped up 16 other items that were put up for auction by Hendrix 's former girlfriend Kathy Etchingham , who lived with him from 1966 to 1969 .", 
+    "end_position": [], 
+    "entity_label": "LOC", 
+    "impossible": true, 
+    "qas_id": "25.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "Buyers also snapped up 16 other items that were put up for auction by Hendrix 's former girlfriend Kathy Etchingham , who lived with him from 1966 to 1969 .", 
+    "end_position": [], 
+    "entity_label": "MISC", 
+    "impossible": true, 
+    "qas_id": "25.4", 
+    "query": "Others.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "They included a black lacquer and mother of pearl inlaid box used by Hendrix to store his drugs , which an anonymous Australian purchaser bought for 5,060 pounds ( $ 7,845 ) .", 
+    "end_position": [], 
+    "entity_label": "ORG", 
+    "impossible": true, 
+    "qas_id": "26.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "They included a black lacquer and mother of pearl inlaid box used by Hendrix to store his drugs , which an anonymous Australian purchaser bought for 5,060 pounds ( $ 7,845 ) .", 
+    "end_position": [
+      13
+    ], 
+    "entity_label": "PER", 
+    "impossible": false, 
+    "qas_id": "26.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [
+      "13;13"
+    ], 
+    "start_position": [
+      13
+    ]
+  }, 
+  {
+    "context": "They included a black lacquer and mother of pearl inlaid box used by Hendrix to store his drugs , which an anonymous Australian purchaser bought for 5,060 pounds ( $ 7,845 ) .", 
+    "end_position": [], 
+    "entity_label": "LOC", 
+    "impossible": true, 
+    "qas_id": "26.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "They included a black lacquer and mother of pearl inlaid box used by Hendrix to store his drugs , which an anonymous Australian purchaser bought for 5,060 pounds ( $ 7,845 ) .", 
+    "end_position": [
+      22
+    ], 
+    "entity_label": "MISC", 
+    "impossible": false, 
+    "qas_id": "26.4", 
+    "query": "Others.", 
+    "span_position": [
+      "22;22"
+    ], 
+    "start_position": [
+      22
+    ]
+  }, 
+  {
+    "context": "The guitarist died of a drugs overdose in 1970 aged 27 .", 
+    "end_position": [], 
+    "entity_label": "ORG", 
+    "impossible": true, 
+    "qas_id": "27.1", 
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "The guitarist died of a drugs overdose in 1970 aged 27 .", 
+    "end_position": [], 
+    "entity_label": "PER", 
+    "impossible": true, 
+    "qas_id": "27.2", 
+    "query": "a person entity is limited to human including a single individual or a group.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "The guitarist died of a drugs overdose in 1970 aged 27 .", 
+    "end_position": [], 
+    "entity_label": "LOC", 
+    "impossible": true, 
+    "qas_id": "27.3", 
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.", 
+    "span_position": [], 
+    "start_position": []
+  }, 
+  {
+    "context": "The guitarist died of a drugs overdose in 1970 aged 27 .", 
+    "end_position": [], 
+    "entity_label": "MISC", 
+    "impossible": true, 
+    "qas_id": "27.4", 
+    "query": "Others.", 
+    "span_position": [], 
+    "start_position": []
+  }
+]

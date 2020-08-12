@@ -1,0 +1,90 @@
+[
+  {
+    "context": "AFP_ENG_20030305 .0918 NEWS STORY 20030305 15 dead as suicide bomber blasts student bus , Israel hits back in Gaza HAIFA , Israel , March 5 ( AFP ) - Fifteen people were killed and more than 30 wounded Wednesday as a suicide bomber blew himself up on a student bus in the northern town of Haifa , the first bombing in Israel in exactly two months .",
+    "end_position": [
+      21,
+      55,
+      61
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "0.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "19;21",
+      "55;55",
+      "61;61"
+    ],
+    "start_position": [
+      19,
+      55,
+      61
+    ]
+  },
+  {
+    "context": "AFP_ENG_20030305 .0918 NEWS STORY 20030305 15 dead as suicide bomber blasts student bus , Israel hits back in Gaza HAIFA , Israel , March 5 ( AFP ) - Fifteen people were killed and more than 30 wounded Wednesday as a suicide bomber blew himself up on a student bus in the northern town of Haifa , the first bombing in Israel in exactly two months .",
+    "end_position": [
+      26
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "0.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [
+      "26;26"
+    ],
+    "start_position": [
+      26
+    ]
+  },
+  {
+    "context": "AFP_ENG_20030305 .0918 NEWS STORY 20030305 15 dead as suicide bomber blasts student bus , Israel hits back in Gaza HAIFA , Israel , March 5 ( AFP ) - Fifteen people were killed and more than 30 wounded Wednesday as a suicide bomber blew himself up on a student bus in the northern town of Haifa , the first bombing in Israel in exactly two months .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "0.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "AFP_ENG_20030305 .0918 NEWS STORY 20030305 15 dead as suicide bomber blasts student bus , Israel hits back in Gaza HAIFA , Israel , March 5 ( AFP ) - Fifteen people were killed and more than 30 wounded Wednesday as a suicide bomber blew himself up on a student bus in the northern town of Haifa , the first bombing in Israel in exactly two months .",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "0.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "AFP_ENG_20030305 .0918 NEWS STORY 20030305 15 dead as suicide bomber blasts student bus , Israel hits back in Gaza HAIFA , Israel , March 5 ( AFP ) - Fifteen people were killed and more than 30 wounded Wednesday as a suicide bomber blew himself up on a student bus in the northern town of Haifa , the first bombing in Israel in exactly two months .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "0.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "AFP_ENG_20030305 .0918 NEWS STORY 20030305 15 dead as suicide bomber blasts student bus , Israel hits back in Gaza HAIFA , Israel , March 5 ( AFP ) - Fifteen people were killed and more than 30 wounded Wednesday as a suicide bomber blew himself up on a student bus in the northern town of Haifa , the first bombing in Israel in exactly two months .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "0.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "AFP_ENG_20030305 .0918 NEWS STORY 20030305 15 dead as suicide bomber blasts student bus , Israel hits back in Gaza HAIFA , Israel , March 5 ( AFP ) - Fifteen people were killed and more than 30 wounded Wednesday as a suicide bomber blew himself up on a student bus in the northern town of Haifa , the first bombing in Israel in exactly two months .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "0.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  }
+]

@@ -1,0 +1,1 @@
+cut -f 1,4 -d " " train.exa > train.data
